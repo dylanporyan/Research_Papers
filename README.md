@@ -1,8 +1,11 @@
-# :page_facing_up: School Research Papers
+# :page_facing_up: Research Papers
 
-Listed here are some research papers I have written in my Sacramento State Courses that align with my interests
+Listed here are some research papers I have written in during my LBNL internship and Sacramento State Courses that align with my interests
 
-## Fall 2021 Courses
+## LBNL CCI Intership Paper
+- "Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards" (ADD LINK)
+
+## Sacramento State Papers
 **ENVS 120 - Quantitative Methods for Environmental Science**
 - Class Project Paper: Analysis of a Dataset - Turbidity & Diatom Diversity _Coming Soon_
 
