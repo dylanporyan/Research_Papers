@@ -3,7 +3,7 @@
 Listed here are some research papers I have written in during my LBNL internship and Sacramento State Courses that align with my interests
 
 ## LBNL CCI Intership Paper
-- "Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards" (ADD LINK)
+- ["Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards"](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/CCI_Summer%202021_Project%20Report%20Paper_O'Ryan_Dylan.pdf) August 2021
 
 ## Sacramento State Papers
 **ENVS 120 - Quantitative Methods for Environmental Science**
