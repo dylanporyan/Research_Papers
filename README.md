@@ -13,7 +13,7 @@ Listed here are some research papers I have written in during my LBNL internship
 - [Clean Water Act Policy Paper](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/CWA%20Policy%20Paper.docx)
 - [Endangered Species Act Policy Paper](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/ESA%20Policy%20Assignment.docx)
 - Clean Air Act Policy Paper _Coming Soon_
-- [Environmental Science and Policy Making Paper](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/ENVS%20171%20Short%20Paper%201.docx)
+- [Environmental Science and Policymaking Paper](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/ENVS%20171%20Short%20Paper%201.docx)
 - [Science Memo: CA Water Crisis](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/ENVS%20171%20Science%20Memo.docx)
 
 **ENVS 144 - Sustainability Science and Policy**
