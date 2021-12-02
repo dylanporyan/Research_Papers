@@ -3,11 +3,11 @@
 Listed here are some research papers I have written in during my LBNL internship and Sacramento State Courses that align with my interests
 
 ## LBNL CCI Intership Paper
-- ["Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards"](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/CCI_Summer%202021_Project%20Report%20Paper_O'Ryan_Dylan.pdf) August 2021
+- ["Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards"](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/CCI_Summer%202021_Project%20Report%20Paper_O'Ryan_Dylan.pdf)
 
 ## Sacramento State Papers
 **ENVS 120 - Quantitative Methods for Environmental Science**
-- Class Project Paper: Analysis of a Dataset - Turbidity & Diatom Diversity _Coming Soon_
+- ["Turbidity and Diatom Diversity: A look into human effects on water quality and the environment"](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/ENVS%20120%20Class%20Project%20Final%20Draft.docx)
 
 **ENVS 171 - Environmental Politics and Policy**
 - [Clean Water Act Policy Paper](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/CWA%20Policy%20Paper.docx)
@@ -18,5 +18,5 @@ Listed here are some research papers I have written in during my LBNL internship
 
 **ENVS 144 - Sustainability Science and Policy**
 - [Literature Review: Water Quality Community Based Monitoring Programs](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/ENVS%20144%20Literature%20Review.docx)
-- Final Capstone Research Paper: ADD TITLE _Coming Soon_
+- Final Capstone Research Paper: "Community Based Monitoring Programs – A case study of effects of monitoring programs on water quality" _Coming Soon_
    - [Dataset & Visualizations for Research Paper](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/SDD%20Data%20Analysis.xlsx) [XLSX]
