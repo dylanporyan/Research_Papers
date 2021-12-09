@@ -19,5 +19,5 @@ Listed here are some research papers I have written in during my LBNL internship
 
 **ENVS 144 - Sustainability Science and Policy**
 - [Literature Review: Water Quality Community Based Monitoring Programs](https://github.com/dylanporyan/School_Research_Papers/blob/main/paper_links/ENVS%20144%20Literature%20Review.docx)
-- Final Capstone Research Paper: ["Community Based Monitoring Programs – Data analysis of a water quality monitoring program in the California Central Valley"]()
+- Final Capstone Research Paper: ["Community Based Monitoring Programs – Data analysis of a water quality monitoring program in the California Central Valley"](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/ENVS%20144%20Final%20Paper%20-%20O'Ryan.docx)
    - [Dataset & Visualizations for Research Paper](https://github.com/dylanporyan/Research_Papers/blob/main/paper_links/SDD%20Data%20Analysis.xlsx) [XLSX]
